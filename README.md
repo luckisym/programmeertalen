@@ -1,6 +1,6 @@
 ## Programmeertalen, COMPSCI Blok 3
 
-### Opdrachten
+### Assigments
 - Knapsack - Python
 - Sudokusolver - Haskell
 - Client server game - Erlang
